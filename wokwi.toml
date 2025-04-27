@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = '.\src\W6-2.ino.bin'
+elf = '.\src\W6-2.ino.elf'
